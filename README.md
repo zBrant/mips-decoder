@@ -1,4 +1,4 @@
 # How to compile:
-``sh
+``shell
 g++ Main.cc Decoder.cc Instruction.cc
 ``
